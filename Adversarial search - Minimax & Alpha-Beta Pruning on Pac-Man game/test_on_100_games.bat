@@ -1,0 +1,4 @@
+cd "C:\Users\nmagu\Dropbox\S5 Exchange Semester - NTNU Trondheim\TDT4136 Introduction to AI\Assignments\Assignment 4\multiagent\"
+::for /l %%X in (1,1,99) do (python.exe pacman.py -p MinimaxAgent -l trappedClassic -a depth=3 >> "C:\Users\nmagu\Dropbox\S5 Exchange Semester - NTNU Trondheim\TDT4136 Introduction to AI\Assignments\Assignment 4\trappedClassic_on_100games.txt")
+for /l %%X in (1,1,99) do (python.exe pacman.py -p MinimaxAgent -l minimaxClassic -a depth=4 >> "C:\Users\nmagu\Dropbox\S5 Exchange Semester - NTNU Trondheim\TDT4136 Introduction to AI\Assignments\Assignment 4\minimaxClassic_on_100games.txt")
+pause

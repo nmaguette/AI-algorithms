@@ -1,0 +1,495 @@
+Pacman died! Score: -496
+Average Score: -496.0
+Scores:        -496.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman died! Score: -497
+Average Score: -497.0
+Scores:        -497.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -495
+Average Score: -495.0
+Scores:        -495.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 513
+Average Score: 513.0
+Scores:        513.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 514
+Average Score: 514.0
+Scores:        514.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 513
+Average Score: 513.0
+Scores:        513.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 513
+Average Score: 513.0
+Scores:        513.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -495
+Average Score: -495.0
+Scores:        -495.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 514
+Average Score: 514.0
+Scores:        514.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -495
+Average Score: -495.0
+Scores:        -495.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 513
+Average Score: 513.0
+Scores:        513.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 513
+Average Score: 513.0
+Scores:        513.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 514
+Average Score: 514.0
+Scores:        514.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 514
+Average Score: 514.0
+Scores:        514.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 513
+Average Score: 513.0
+Scores:        513.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -496
+Average Score: -496.0
+Scores:        -496.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 513
+Average Score: 513.0
+Scores:        513.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 514
+Average Score: 514.0
+Scores:        514.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 514
+Average Score: 514.0
+Scores:        514.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 514
+Average Score: 514.0
+Scores:        514.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -497
+Average Score: -497.0
+Scores:        -497.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 514
+Average Score: 514.0
+Scores:        514.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -496
+Average Score: -496.0
+Scores:        -496.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 514
+Average Score: 514.0
+Scores:        514.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -495
+Average Score: -495.0
+Scores:        -495.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman died! Score: -495
+Average Score: -495.0
+Scores:        -495.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -496
+Average Score: -496.0
+Scores:        -496.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman died! Score: -492
+Average Score: -492.0
+Scores:        -492.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Pacman emerges victorious! Score: 516
+Average Score: 516.0
+Scores:        516.0
+Win Rate:      1/1 (1.00)
+Record:        Win
